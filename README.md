@@ -1,6 +1,7 @@
 # Kings County Housing Bake-off
 ### Author: Gary Schwaeber
-![example](images/assessors_social.jpg)
+
+![head](images/Seattle-Rainier.jpg)
 
 ## Overview
 The goal of this project is to explore housing data from Kings County, WA and to use the data to build a model to predict housing prices.
