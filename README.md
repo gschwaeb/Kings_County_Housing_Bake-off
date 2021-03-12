@@ -13,6 +13,7 @@ The data folder contains the training data set, prediction data set, census data
 
 ```
 ├── data
+├── images
 ├── .gitignore
 ├── Kings_County_Housing_Bake-off.ipynb
 ├── Predict_Holdout.ipynb
