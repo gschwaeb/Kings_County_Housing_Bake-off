@@ -26,27 +26,27 @@ The data folder contains the training data set, holdout data set, prediction dat
 ## Exploratory Data Analysis
 Initial columns provided in the data set include:
 
-id - unique ID for a house
-date - Date day house was sold
-price - Price is prediction target
-bedrooms - Number of bedrooms
-bathrooms - Number of bathrooms
-sqft_living - square footage of the home
-sqft_lot - square footage of the lot
-floors - Total floors (levels) in house
-waterfront - Whether house has a view to a waterfront
-view - Number of times house has been viewed
-condition - How good the condition is (overall)
-grade - overall grade given to the housing unit, based on King County grading system
-sqft_above - square footage of house (apart from basement)
-sqft_basement - square footage of the basement
-yr_built - Year when house was built
-yr_renovated - Year when house was renovated
-zipcode - zip code in which house is located
-lat - Latitude coordinate
-long - Longitude coordinate
-sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
-sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
+<br />id - unique ID for a house
+<br />date - Date day house was sold
+<br />price - Price is prediction target
+<br />bedrooms - Number of bedrooms
+<br />bathrooms - Number of bathrooms
+<br />sqft_living - square footage of the home
+<br />sqft_lot - square footage of the lot
+<br />floors - Total floors (levels) in house
+<br />waterfront - Whether house has a view to a waterfront
+<br />view - view rating of house
+<br />condition - How good the condition is (overall)
+<br />grade - overall grade given to the housing unit, based on King County grading system
+<br />sqft_above - square footage of house (apart from basement)
+<br />sqft_basement - square footage of the basement
+<br />yr_built - Year when house was built
+<br />yr_renovated - Year when house was renovated
+<br />zipcode - zip code in which house is located
+<br />lat - Latitude coordinate
+<br />long - Longitude coordinate
+<br />sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
+<br />sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 
 
 Some of the key feature discovered from the EDA that required further investigation include sqft living space, zip code mean income, grade, view, excess bathrooms, and decade built. The below heatmap shows the correlation with some potentially significant numerical features and price. 
