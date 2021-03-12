@@ -1,5 +1,8 @@
 # Kings County Housing Bake-off
 ### Author: Gary Schwaeber
+![example](images/assessors_social.jpg)
+
+
 The goal of this project is explore housing data from Kings County, WA and to use the data to build a model to predict housing prices.
 
 The Kings_County_Housing_Bake-off.ipynb file contains the exploratory data analysis on the Kings County housing data, feature engineering, model building, and the final model.
