@@ -50,7 +50,7 @@ Initial columns provided in the data set include:
 
 
 Some of the key feature discovered from the EDA that required further investigation include sqft living space, zip code mean income, grade, view, excess bathrooms, and decade built. The below heatmap shows the correlation with some potentially significant numerical features and price. 
-![heatmap](images/heatmap.png =10x10)
+![heatmap](images/heatmap.png)
 
 Of note sqft_living had the highest correlation with price, a regplot shows a clear positive relationship
 ![sqft](images/sqftvprice.png)
